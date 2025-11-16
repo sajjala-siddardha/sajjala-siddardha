@@ -4,107 +4,46 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Sajjala%20Siddardha&fontAlign=50&fontColor=00FFFF&fontSize=60&color=0:000000,100:001F3F&animation=fadeIn" />
 </p>
 
-
-<!-- ========================= AI BOT ANIMATION ========================= -->
+<!-- ========================= TYPING TITLE ========================= -->
 
 <p align="center">
-  <img src="https://i.gifer.com/8Etj.gif" width="400" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=600&color=00FFFF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Full-Stack+Developer;AIML+Student+@+SRKR+Engineering+College;Building+Smart+AI+Systems;Welcome+to+my+GitHub+Profile+🚀" />
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Sajjala Siddardha</h1>
-<h3 align="center">AI/ML Engineer • AIML @ SRKR • Full-Stack Innovator</h3>
+<h2 align="center">AI / ML Engineer • Full-Stack Developer • AIML @ SRKR Engineering College</h2>
 
 ---
 
 ## 🧑‍💻 About Me  
 - 🎓 Final Year AIML student at **SRKR Engineering College**, Bhimavaram  
 - 🤖 Passionate about **AI, ML, DL, NLP, LLMs & Computer Vision**  
-- 🚀 Exploring **MLOps, Generative AI & Deployment**  
-- 🌐 Portfolio → https://sajjala-portfolio.vercel.app  
+- 🚀 Exploring **MLOps, GenAI, LangChain & Deployment**  
+- 🌐 Portfolio → **https://sajjala-portfolio.vercel.app**  
 - 📧 Email → **siddardhagaming@gmail.com**
 
 ---
 
-# 🛠 Ultimate Tech Stack (All-in-One)
+# 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,go,rust,js,ts,react,nextjs,html,css,tailwind,flask,fastapi,django,nodejs,express,git,github,docker,kubernetes,aws,gcp,azure,mysql,postgres,mongodb,redis,sqlite,opencv,tensorflow,pytorch,sklearn,figma,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,rust,go,cpp,c,js,ts,react,nextjs,html,css,tailwind,flask,fastapi,django,nodejs,express,git,github,docker,kubernetes,aws,gcp,azure,mysql,postgres,mongodb,redis,sqlite,opencv,tensorflow,pytorch,sklearn,linux,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-# 🌟 Custom Badges
+# 🏅 Custom Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-%2300FFFF?style=for-the-badge&logo=ai" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-%2300FF00?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/NLP-%23FF1493?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-%230000FF?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/AI%20Engineer-%2300FFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-%23FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-%2300FF00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-%230000FF?style=for-the-badge" />
 </p>
 
 ---
 
-# 🎨 Project Showcase Grid (Beautiful Layout)
-
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/9068/9068979.png" width="80"/>
-  <br/>
-  <b>Fire Detection AI</b>
-  <br/>
-  🔥 CNN / YOLO  
-</td>
-
-<td align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/9068/9068974.png" width="80"/>
-  <br/>
-  <b>Job Recommendation System</b>
-  <br/>
-  🤖 NLP / Embeddings  
-</td>
-
-<td align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="80"/>
-  <br/>
-  <b>Email Spam Classifier</b>
-  <br/>
-  📩 ML / Text Classification  
-</td>
-</tr>
-
-<tr>
-<td align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/9947/9947969.png" width="80"/>
-  <br/>
-  <b>Underwater Object Detection</b>
-  <br/>
-  🌊 YOLOv10  
-</td>
-
-<td align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="80"/>
-  <br/>
-  <b>House Price Predictor</b>
-  <br/>
-  🏠 Regression  
-</td>
-
-<td align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1548/1548434.png" width="80"/>
-  <br/>
-  <b>LLM Chatbot</b>
-  <br/>
-  🧠 LangChain  
-</td>
-</tr>
-</table>
-
----
-
-# 🐍 Snake Contribution Graph (FIXED + WORKING)
+# 🐍 Snake Contribution Graph  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -112,7 +51,7 @@
 
 ---
 
-# 🌌 3D Contribution Universe (Always Working GIF)
+# 🌌 3D Contribution Universe  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/harish-sethuraman/github-readme-3d-contrib/main/docs/demo.gif" width="900"/>

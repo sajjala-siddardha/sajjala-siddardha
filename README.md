@@ -1,8 +1,4 @@
-<!-- ========================= NEON GLOW BANNER ========================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Sajjala%20Siddardha&fontAlign=50&fontColor=00FFFF&fontSize=60&color=0:000000,100:001F3F&animation=fadeIn" />
-</p>
 
 <!-- ========================= TYPING TITLE ========================= -->
 

@@ -2,13 +2,12 @@
 
 <!-- ========================= TYPING TITLE ========================= -->
 
-
 <p align="center">
-font=Fira+Code&weight=900&size=30&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=900&height=70&lines=Sajjala+Siddardha+⚡;AI+Engineer+%7C+ML+Developer+%7C+Full+Stack+Innovator;Building+Smart+Systems+with+Code+%F0%9F%92%BB;Pushing+the+Limits+of+AI+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=900&height=70&lines=Sajjala+Siddardha+⚡;AI+Engineer+%7C+ML+Developer+%7C+Full+Stack+Innovator;Building+Smart+Systems+with+Code+%F0%9F%92%BB;Pushing+the+Limits+of+AI+%F0%9F%94%A5" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/q3YjK6v.gif" width="900"/>
+  <img src="https://github.com/TimothyDJones/personal-portfolio/blob/master/src/assets/particles.gif" width="900"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sajjala Siddardha</h1>

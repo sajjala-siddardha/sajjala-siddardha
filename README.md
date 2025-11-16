@@ -5,7 +5,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=600&color=00FFFF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Full-Stack+Developer;AIML+Student+@+SRKR+Engineering+College;Building+Smart+AI+Systems;Welcome+to+my+GitHub+Profile+🚀" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=900&height=70&lines=Sajjala+Siddardha+⚡;AI+Engineer+%7C+ML+Developer+%7C+Full+Stack+Innovator;Building+Smart+Systems+with+Code+%F0%9F%92%BB;Pushing+the+Limits+of+AI+%F0%9F%94%A5" />
+</p>
 
+<p align="center">
+  <img src="https://i.imgur.com/q3YjK6v.gif" width="900"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Sajjala Siddardha</h1>
 <h2 align="center">AI / ML Engineer • Full-Stack Developer • AIML @ SRKR Engineering College</h2>
 
 ---

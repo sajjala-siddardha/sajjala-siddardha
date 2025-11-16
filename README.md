@@ -1,152 +1,114 @@
 <!-- ========================= TYPING TITLE ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=900&height=70&lines=Sajjala+Siddardha+⚡;AI+Engineer+%7C+ML+Developer+%7C+Full+Stack+Innovator;Building+Smart+Systems+with+Code+💻;Pushing+the+Limits+of+AI+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=900&height=70&lines=Sajjala+Siddardha+⚡;AI+Engineer+%7C+ML+Developer+%7C+Full+Stack+Innovator;Crafting+Intelligent+Systems+with+Code+💻;Pushing+Boundaries+in+AI+🔥" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sajjala Siddardha</h1>
-<h2 align="center">AI / ML Engineer • Full-Stack Developer • AIML @ SRKR Engineering College</h2>
+<h3 align="center">AI / ML Engineer • Full-Stack Developer • AIML @ SRKR Engineering College</h3>
 
 ---
 
 ## 🧑‍💻 About Me  
 - 🎓 Final Year AIML student at **SRKR Engineering College**, Bhimavaram  
-- 🤖 Passionate about **AI, ML, DL, NLP, LLMs & Computer Vision**  
-- 🚀 Exploring **MLOps, GenAI, LangChain & Deployment**  
-- 🌐 Portfolio → https://sajjala-portfolio.vercel.app  
-- 📧 Email → siddardhagaming@gmail.com  
+- 🤖 Passionate about **ML, DL, NLP, CV, and LLM Systems**  
+- ⚡ Building scalable **AI-powered applications**  
+- 🚀 Learning **MLOps, Deployment, Cloud & GenAI**  
+- 🌐 **Portfolio:** https://sajjala-portfolio.vercel.app  
+- 📧 **Email:** siddardhagaming@gmail.com  
 
 ---
 
-# 🛠 Tech Stack (Text Only)
+# 🛠 Tech Stack  
 
-### **Programming Languages**  
-- Python  
-- Java  
-- C  
-- C++  
-- Go  
-- Rust  
-- JavaScript  
-- TypeScript  
-
-### **Frontend**  
-- HTML  
-- CSS  
-- TailwindCSS  
-- React.js  
-- Next.js  
-
-### **Backend & APIs**  
-- Node.js  
-- Express.js  
-- FastAPI  
-- Flask  
-- Django  
-
-### **Databases**  
-- PostgreSQL  
-- MySQL  
-- MongoDB  
-- SQLite  
-- Redis  
-
-### **Machine Learning & AI**  
-- Scikit-Learn  
-- TensorFlow  
-- PyTorch  
-- Keras  
-- XGBoost  
-- LightGBM  
-- NLP (Transformers, Embeddings, Sentence-BERT)  
-- LLMs  
-- Computer Vision (OpenCV, YOLO)  
-
-### **MLOps / DevOps**  
-- Docker  
-- Kubernetes  
-- CI/CD  
-- Git  
-- GitHub  
-- AWS  
-- GCP  
-- Azure  
-
-### **Tools**  
-- Linux  
-- VS Code  
-- Jupyter Notebook  
-- Postman  
-- Figma  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,go,rust,js,ts&perline=10" /><br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma&perline=10" /><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django&perline=10" /><br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&perline=10" /><br><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=10" /><br><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,git,github,vscode&perline=10" />
+</p>
 
 ---
 
-# 🏅 Custom Badges (Text Version)
+# 🏅 Custom Badges  
 
-- AI Engineer  
-- Machine Learning Specialist  
-- NLP Developer  
-- Deep Learning Enthusiast  
-- Computer Vision Engineer  
-- Full Stack Developer  
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-00FFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-00FF00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-0000FF?style=for-the-badge" />
+</p>
 
 ---
 
 # 🔥 Highlights  
-- 💡 Building modern NLP projects using Transformers, MiniLM, LightGBM  
-- 🧠 Strong foundation in **ML, DL, NLP, and CV**  
-- 🔥 Skilled in deploying models using **Streamlit, FastAPI, Docker**  
-- 🤖 Experience with **LLMs, Embeddings, Vector Search, GenAI**  
-- 📦 End-to-end Machine Learning Pipelines  
+- 🤖 Working with **Transformers, MiniLM, BERT, and Vector Embeddings**  
+- 🧠 Strong in **ML, DL, CV, NLP, and LLM systems**  
+- 🚀 Deploying apps using **Streamlit, FastAPI, Docker**  
+- 🧩 Building modern, scalable **AI-powered applications**  
 
 ---
 
 # 🧠 Core Skills  
-- Machine Learning (Classification, Regression, Feature Engg.)  
-- Deep Learning (CNN, RNN, Transformers)  
-- NLP (Embeddings, Tokenization, Sequence Models)  
-- Computer Vision (YOLO, Segmentation, Detection)  
-- Backend Development (FastAPI, Django, Node.js)  
-- Software Engineering  
+- ML / DL Model Development  
+- Transformer Models & NLP  
+- Large Language Models & Vector Search  
+- End-to-End AI Application Development  
+- Computer Vision (YOLO, OpenCV)  
+- Backend Engineering  
 - Cloud Deployment  
 
 ---
 
 # 🗺️ 2025 Project Roadmap  
-- Email Spam Classifier (MiniLM + LightGBM) — In Progress  
-- Job Recommendation Engine (Embeddings + NLP)  
-- Fire Detection System (CNN + GradCAM)  
-- Underwater Object Detection (YOLOv10)  
-- Resume Analyzer (ML + NLP + UI)  
-- Personal AI Agent  
+
+- 🔵 **Spam Detection System (MiniLM + LightGBM)** — In Progress  
+- 🟢 **Job Recommendation Engine (NLP + Embeddings)**  
+- 🟣 **Fire Detection System (CNN + GradCAM)**  
+- 🟠 **Underwater Object Detection (YOLOv10)**  
+- 🟡 **AI-Powered Resume Analyzer**  
+- 🔻 **Personal AI Agent (LLM Tools + Memory)**  
 
 ---
 
-# 📊 GitHub Insights (Text Only)
+# 📊 GitHub Insights  
 
-- 🔥 Contribution Streaks  
-- 📂 Repository Statistics  
-- 🧠 Top Languages Used  
-- 🏆 Achievements Unlocked  
-- 👀 Profile Views  
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjala-siddardha&theme=tokyonight&hide_border=true"/><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=sajjala-siddardha&show_icons=true&theme=tokyonight&hide_border=true"/><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjala-siddardha&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 # 🏆 Achievements  
-- Built multiple end-to-end ML & DL projects  
-- Experience with real-world CV and NLP datasets  
-- Strong exposure to LLMs & GenAI  
-- Developed full-stack + AI-integrated applications  
-- Built and deployed several research-backed projects  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sajjala-siddardha&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 👤 Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajjala-siddardha&color=blueviolet&style=for-the-badge">
+</p>
 
 ---
 
 # 🌐 Connect With Me  
-- ✉️ Email → siddardhagaming@gmail.com  
-- 🌐 Portfolio → https://sajjala-portfolio.vercel.app  
-- 🔗 LinkedIn → /in/sajjala-siddardha-84685928b  
-- 🧠 Kaggle → siddardha123  
-- 📸 Instagram → siddardhareddy146  
+
+<p align="center">
+<a href="mailto:siddardhagaming@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+<a href="https://sajjala-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/></a>
+<a href="https://www.linkedin.com/in/sajjala-siddardha-84685928b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.kaggle.com/siddardha123"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/></a>
+<a href="https://www.instagram.com/siddardhareddy146"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+</p>
 
 ---
 

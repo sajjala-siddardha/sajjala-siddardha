@@ -1,80 +1,120 @@
-<!-- ========================= TYPING TITLE ========================= -->
+<!-- ========================= ANIMATED ASCII HEADER ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=900&height=70&lines=Sajjala+Siddardha+⚡;AI+Engineer+%7C+ML+Developer+%7C+Full+Stack+Innovator;Crafting+Intelligent+Systems+with+Code+💻;Pushing+Boundaries+in+AI+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=32&pause=600&color=00FFFF&center=true&vCenter=true&width=900&height=80&lines=Sajjala+Siddardha;AI+Engineer+%7C+ML+Developer+%7C+Full+Stack+Builder;Innovating+with+AI+%26+Modern+Engineering+⚡" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sajjala Siddardha</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
+
+<h1 align="center">👋 Hi, I’m Sajjala Siddardha</h1>
 <h3 align="center">AI / ML Engineer • Full-Stack Developer • AIML @ SRKR Engineering College</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" />
+</p>
+
 ---
 
-## 🧑‍💻 About Me  
+# 🧑‍💻 About Me  
 - 🎓 Final Year AIML student at **SRKR Engineering College**, Bhimavaram  
-- 🤖 Passionate about **ML, DL, NLP, CV, and LLM Systems**  
-- ⚡ Building scalable **AI-powered applications**  
-- 🚀 Learning **MLOps, Deployment, Cloud & GenAI**  
-- 🌐 **Portfolio:** https://sajjala-portfolio.vercel.app  
-- 📧 **Email:** siddardhagaming@gmail.com  
-
----
-
-# 🛠 Tech Stack  
+- 🤖 Passionate about **ML, DL, NLP, CV, GenAI & LLM Systems**  
+- 🔥 Building real-world AI systems with modern tooling  
+- ☁ Exploring **MLOps, Vector DBs, Deployment Pipelines**  
+- 🌐 Portfolio → https://sajjala-portfolio.vercel.app  
+- 📧 Email → siddardhagaming@gmail.com  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,go,rust,js,ts&perline=10" /><br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma&perline=10" /><br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django&perline=10" /><br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&perline=10" /><br><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=10" /><br><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,git,github,vscode&perline=10" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
 ---
 
-# 🏅 Custom Badges  
+# 🛠 Tech Stack (Dark Mode Badges)
+
+### 🔹 Programming  
+<p>
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=orange"/>
+<img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go&logoColor=cyan"/>
+<img src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=blue"/>
+</p>
+
+### 🔹 Frontend  
+<p>
+<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=red"/>
+</p>
+
+### 🔹 Backend  
+<p>
+<img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=3c873a"/>
+<img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=0C4B33"/>
+</p>
+
+### 🔹 Databases  
+<p>
+<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=blue"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=316192"/>
+<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+<img src="https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=red"/>
+</p>
+
+### 🔹 AI / ML  
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Numpy-000?style=for-the-badge&logo=numpy&logoColor=01589C"/>
+<img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=7B68EE"/>
+<img src="https://img.shields.io/badge/Streamlit-000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-00FFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-FF1493?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-00FF00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-0000FF?style=for-the-badge" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" />
 </p>
 
 ---
 
-# 🔥 Highlights  
-- 🤖 Working with **Transformers, MiniLM, BERT, and Vector Embeddings**  
-- 🧠 Strong in **ML, DL, CV, NLP, and LLM systems**  
-- 🚀 Deploying apps using **Streamlit, FastAPI, Docker**  
-- 🧩 Building modern, scalable **AI-powered applications**  
+# 🧠 Random Dev Quote (Auto-generated)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
+
+
+# 🌍 Visitor Analytics (Random Counter + Country Flags)
+
+### 🌐 Total Visitors  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sajjala-siddardha&color=00FFFF&style=for-the-badge">
+</p>
+
+### 🌎 Where People Visit From  
+<p align="left">
+  <img src="https://api.visitorbadge.io/api/locations?path=sajjala-siddardha&label=Visitors&labelColor=000&countColor=00FFFF&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ---
 
-# 🧠 Core Skills  
-- ML / DL Model Development  
-- Transformer Models & NLP  
-- Large Language Models & Vector Search  
-- End-to-End AI Application Development  
-- Computer Vision (YOLO, OpenCV)  
-- Backend Engineering  
-- Cloud Deployment  
-
----
-
-# 🗺️ 2025 Project Roadmap  
-
-- 🔵 **Spam Detection System (MiniLM + LightGBM)** — In Progress  
-- 🟢 **Job Recommendation Engine (NLP + Embeddings)**  
-- 🟣 **Fire Detection System (CNN + GradCAM)**  
-- 🟠 **Underwater Object Detection (YOLOv10)**  
-- 🟡 **AI-Powered Resume Analyzer**  
-- 🔻 **Personal AI Agent (LLM Tools + Memory)**  
-
----
-
-# 📊 GitHub Insights  
+# 🏆 GitHub Stats (Dark Mode)
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjala-siddardha&theme=tokyonight&hide_border=true"/><br><br>
@@ -82,20 +122,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjala-siddardha&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🏆 Achievements  
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sajjala-siddardha&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-# 👤 Profile Views  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sajjala-siddardha&color=blueviolet&style=for-the-badge">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
 ---
@@ -103,13 +131,17 @@
 # 🌐 Connect With Me  
 
 <p align="center">
-<a href="mailto:siddardhagaming@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
-<a href="https://sajjala-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/></a>
-<a href="https://www.linkedin.com/in/sajjala-siddardha-84685928b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://www.kaggle.com/siddardha123"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/></a>
-<a href="https://www.instagram.com/siddardhareddy146"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+<a href="mailto:siddardhagaming@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+<a href="https://sajjala-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sajjala-siddardha-84685928b"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://www.kaggle.com/siddardha123"><img src="https://img.shields.io/badge/Kaggle-000?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/></a>
+<a href="https://www.instagram.com/siddardhareddy146"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 </p>
 
 ---
 
 <h3 align="center">⭐ Thanks for visiting — follow me for more AI & ML projects!</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" />
+</p>

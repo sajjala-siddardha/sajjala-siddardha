@@ -11,9 +11,7 @@
 <h1 align="center">👋 Hi, I’m Sajjala Siddardha</h1>
 <h3 align="center">AI / ML Engineer • Full-Stack Developer • AIML @ SRKR Engineering College</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" />
-</p>
+
 
 ---
 
@@ -103,14 +101,6 @@
   <img src="https://komarev.com/ghpvc/?username=sajjala-siddardha&color=00FFFF&style=for-the-badge">
 </p>
 
-### 🌎 Where People Visit From  
-<p align="left">
-  <img src="https://api.visitorbadge.io/api/locations?path=sajjala-siddardha&label=Visitors&labelColor=000&countColor=00FFFF&style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
 
 ---
 
@@ -142,6 +132,4 @@
 
 <h3 align="center">⭐ Thanks for visiting — follow me for more AI & ML projects!</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" />
-</p>
+

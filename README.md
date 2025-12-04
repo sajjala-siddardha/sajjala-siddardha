@@ -17,7 +17,7 @@
 - 🤖 Passionate about **ML, NLP, CV, Deep Learning & GenAI**
 - 🚀 Building **LLM Apps, MLOps pipelines, ML systems**, full-stack tools
 - 🧠 Interested in **AI Agents, Vector DBs, RAG, Transformers**
-- 🌐 Portfolio → **https://sajjala-portfolio.vercel.app**
+- 🌐 Portfolio → **https://siddardha-portfolio.vercel.app/**
 - 📧 Email → **siddardhagaming@gmail.com**
 
 ---
